@@ -1,2 +1,3 @@
-# womentechmakerstucson
-Online home of Tucson Women TechMakers
+# Tucson Women TechMakers
+
+The outcome of the work is to help women within the Tucson community feel comfortable about getting their ideas out in the technology field. On November 14-15th Code for Tucson and Google Women Techmakers have come together to throw a Women’s Hackathon. The idea of Women’s Hackathon is to gear women into feeling empowered to participate in the digital news entrepreneurship. Our goal is to promote the event by creating flyers, t-shirt and sticker designs. We want women to come to an environment where they feel like they can come to a place and express their ideas. The Hackathon is where women can come with ideas to collaborate with other women within the community, to pitch their ideas and to move forward with their digital entrepreneurship and to create lifelong networks. 
